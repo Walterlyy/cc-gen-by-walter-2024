@@ -25,7 +25,7 @@ This tool generates and validates credit card details, saving the results to `cr
 ### Credits
 - This tool is made by Walter Jija
 - Discord ID: walter.lyy
-- Server Link: [https://discord.gg/byteclub](https://discord.gg/cordreapers)
+- Server Link: [https://discord.gg/cordreapers](https://discord.gg/cordreapers)
 
 ### Note
 Do not edit the credits in the output files. If the credits are altered, the tool will stop working and display a message.
