@@ -23,7 +23,7 @@ This tool generates and validates credit card details, saving the results to `cr
 2. When prompted, enter the number of credit cards to generate.
 3. Generated credit cards will be saved to `creditcard.txt`.
 ### Credits
-- This tool is made by Walter Jija
+- This tool is made by Walter
 - Discord ID: walter.lyy
 - Server Link: [https://discord.gg/cordreapers](https://discord.gg/cordreapers)
 
