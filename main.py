@@ -10,7 +10,7 @@ credits = [
 " ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚═╝   ╚══════╝╚═╝  ╚═╝\033[0m\n",
     "\033[91mThis tool is made by Walter\n",
     "Discord id: walter.lyy\n",
-    "Server Link: https://discord.gg/cordreapers\033[0m\n",
+    "Server Link: https://discord.gg/byteclub\033[0m\n",
 ]
 
 # Generate expiry date
