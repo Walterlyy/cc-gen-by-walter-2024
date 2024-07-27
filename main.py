@@ -2,13 +2,13 @@ import random
 
 # Fixed credits with ANSI escape codes for color
 credits = [
-"\033[91m██╗    ██╗ █████╗ ██╗  ████████╗███████╗██████╗ \n",
+"\033[92m██╗    ██╗ █████╗ ██╗  ████████╗███████╗██████╗ \n",
 "██║    ██║██╔══██╗██║  ╚══██╔══╝██╔════╝██╔══██╗\n",
-"██║ █╗ ██║███████║██║     ██║   █████╗  ██████╔╝\n",
+"██║ █╗ ██║███████║██║     ██║  ██████╗  ██████╔╝\n",
 "██║███╗██║██╔══██║██║     ██║   ██╔══╝  ██╔══██╗\n",
 "╚███╔███╔╝██║  ██║███████╗██║   ███████╗██║  ██║\n",
-" ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚═╝   ╚══════╝╚═╝  ╚═╝\033[0m\n",
-    "\033[91mThis tool is made by Walter\n",
+" ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚═╝   ╚══════╝╚═╝  ╚═╝\033[0m\n"
+    "\033[92mThis tool is made by Walter\n",
     "Discord id: walter.lyy\n",
     "Server Link: https://discord.gg/NKv5f2xt6S\033[0m\n",
 ]
@@ -57,7 +57,7 @@ def generate_credit_card(bin, count):
         generated_cards.append(card_details)
         save_credit_card(card_details)
 
-    print("\033[91mThe generation of CC has been completed (check creditcards.txt for more info)\033[0m")
+    print("\033[93mThe generation of CC has been completed (check creditcards.txt for more info)\033[0m")
     print(f"Generated {count} credit card number(s).")
 
 # Save generated credit card details to creditcards.txt
@@ -68,7 +68,7 @@ def save_credit_card(card_details):
 
 # Main function to choose between options
 def main():
-    print("\033[91mRead the README.md for more information.")
+    print("\033[92mRead the README.md for more information.")
     for line in credits:
         print(line.strip())
     print("\033[0m")
